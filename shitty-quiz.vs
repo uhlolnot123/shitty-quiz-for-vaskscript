@@ -1,0 +1,19 @@
+// Shitty Quiz  
+// By BasicCodz
+// NOTE FOR OWNER: ass owner didn't even add IF AND ELSE
+
+PRINT HEY WELCOME TO SHITTY QUIZ (V1.0)
+PRINT LET'S START?
+PRINT
+READ
+
+CLEAR
+PRINT What is the meaning of U.S.A?
+PRINT
+INPUT user
+PRINT
+PRINT YOU WON!
+PRINT
+READ
+
+
