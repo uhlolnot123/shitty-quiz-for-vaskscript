@@ -1,5 +1,5 @@
 // Shitty Quiz  
-// By BasicCodz
+// By uhlolnot123
 // NOTE FOR OWNER: ass owner didn't even add IF AND ELSE
 
 PRINT HEY WELCOME TO SHITTY QUIZ (V1.0)
